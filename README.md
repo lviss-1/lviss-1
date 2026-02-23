@@ -13,5 +13,5 @@ I am in my sophomore year at my University and learning more everyday!
 
 ## A Bit About Me
 
-I love all kinds of music and it is my favorite way to bond with people.
-I love learning about new technologies on the rise in todays world.
+- I love all kinds of music and it is my favorite way to bond with people.
+- I love learning about new technologies on the rise in todays world.
