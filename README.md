@@ -9,7 +9,7 @@ Always working towards something.
 ## A Bit About Me
 - Junior studying at Iona Computer Science
 - Currently focused on frontend engineering and learning full-stack web dev
-- Interested in DSA, systems programming, and how softwaare maps to real-world
+- Interested in DSA, systems programming, and how software maps to real-world
   infrastructure
 - I love all kinds of music and it is my favorite way to bond with people.
 - I love learning about new technologies on the rise in todays world.
