@@ -1,8 +1,7 @@
-## Hello 👋
-
-My name is Luis, I am an aspiring software engineer based in the U.S.
-
-I am in my sophomore year at my University and learning more everyday!
+## Hey, I'm Luis 👋
+I am a Computer Science student at Iona University. I build different side projects
+and working on building production web apps for local businesses in Westchester.
+Always working towards something.
 
 ## Tools and Tech
 
