@@ -4,7 +4,7 @@ and working on building production web apps for local businesses in Westchester.
 Always working towards something.
 
 ## Tools and Tech
-`JavaScript` `Java` `Python` `Bash` `Git` `Vercel`
+`JavaScript` `Java` `Bash` `Git` `Vercel`
 
 ## A Bit About Me
 - Junior studying at Iona Computer Science
