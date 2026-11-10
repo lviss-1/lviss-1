@@ -1,53 +1,27 @@
-# Hey, I'm Luis 👋
+# Luis Hernandez
 
-I'm a CS student at Iona University (Class of 2028) targeting Software Engineering and Cloud Engineering internships — Summer 2027 cycle.
+CS student at Iona University (B.S. 2028, M.S. 2029), looking for a Summer 2027 software engineering internship, especially backend and infrastructure work.
 
-I split my time between enterprise automation on the Microsoft stack, freelance web development for local businesses, and shipping small products end-to-end on my own. Both come down to the same thing: take something manual or broken, and make it not that.
+**Right now:** applying for internships and learning new tech
 
-## Currently
+## Work
 
-- 🎯 Applying to SWE / Cloud Engineering internships for Summer 2027.
-- ☁️ Studying for **AZ-900**, AZ-104 next.
+**Applications Developer Intern, BRC** (Summer 2026)
+Turned a device spreadsheet with no warranty tracking into a SharePoint system for 845 devices that emails IT 90 days before a warranty expires. The IT Director signed it off. I also built a phone-based attendance agent in Copilot Studio; IT took over the last integration step.
 
-## Experience
-
-- 🏢 **Applications Developer Intern @ BRC** (NYC nonprofit, IT/Application Services) — Summer 2026. Built a device-lifecycle management system on SharePoint Online covering 845 assets, and a Copilot Studio voice agent for attendance reporting (14-topic dialog graph, 8 guardrail topics, built and voice-tested).
-- 🔬 **AI Research Assistant @ Iona LaPenta School of Business** — Summer 2026. Designed and ran an AI-assisted evaluation pipeline grading corporate sustainability disclosures against a 22-category rubric across a 25-carrier scope, benchmarked to GRI/SASB/TCFD.
+**Research Assistant, Iona LaPenta School of Business** (Summer 2026)
+Designed the protocol and ran the AI-assisted pipeline that graded airline sustainability reports against a 22-category rubric. Co-author on the paper, presented with faculty at NBEA.
 
 ## Projects
 
-**[DarkBoard](https://github.com/lviss-1/Darkboard)** — Manifest V3 Chrome extension adding a zero-flash-of-white dark theme to Blackboard Ultra. Injects CSS at `document_start`, uses a `MutationObserver` to survive Blackboard's React re-renders stripping the theme, and syncs toggle state across tabs through an MV3 background service worker. Published on the [Chrome Web Store](https://chromewebstore.google.com/detail/dark-mode-for-blackboard/ogkjalalkednannikfgjhcnmgcepkeip).
+**[DarkBoard](https://chromewebstore.google.com/detail/dark-mode-for-blackboard/ogkjalalkednannikfgjhcnmgcepkeip)** ([code](https://github.com/lviss-1/Darkboard))
+Dark mode for Blackboard Ultra. 100+ users on the Chrome Web Store, and it now works at other universities, not just Iona! Manifest V3, vanilla JavaScript.
 
-**[Pokémon Team Builder](https://lviss-1.github.io/Pokemon-Team-Builder)** — Vanilla JS app for building and analyzing Pokémon teams against the full 1,025-entry Pokédex, integrating the PokeAPI. Computes *net* type coverage — weaknesses/resistances that cancel out across teammates — using `Set` algebra, and scans a team against the current top-8 Smogon OU threats. Batch-fetches the Pokédex with `Promise.all()` and caches it in `localStorage` to cut repeat network calls.
+**[Pokémon Team Builder](https://lviss-1.github.io/Pokemon-Team-Builder)** ([code](https://github.com/lviss-1/Pokemon-Team-Builder))
+Checks a team's type weaknesses and its matchup against the current top competitive threats, across all 1,025 Pokémon. Vanilla JavaScript, PokeAPI.
 
-**[Martinez Cleaning Services](https://www.martinezcleaningny.com/)** — Marketing site for a local cleaning business, giving new clients a way to find and learn about their services online. Built with Next.js and Supabase, deployed on Vercel.
+## Stack
 
-## Tech I work with
-
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Web**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-**Microsoft Power Platform / Cloud**
-
-![Power Automate](https://img.shields.io/badge/Power_Automate-742774?style=flat-square)
-![SharePoint Online](https://img.shields.io/badge/SharePoint_Online-0078D4?style=flat-square)
-![Copilot Studio](https://img.shields.io/badge/Copilot_Studio-0078D4?style=flat-square)
-![Azure Active Directory](https://img.shields.io/badge/Azure_AD-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Chrome Extensions](https://img.shields.io/badge/Chrome_Extensions_MV3-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
-
-## Reach me
+JavaScript, Java, SQL, HTML/CSS · SharePoint Online, Power Automate, Copilot Studio · Git, Chrome extension APIs
 
 [LinkedIn](https://www.linkedin.com/in/hluiss/) · hndz.luis00@gmail.com
